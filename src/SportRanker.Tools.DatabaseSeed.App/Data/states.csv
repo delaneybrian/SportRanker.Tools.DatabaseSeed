@@ -1,0 +1,57 @@
+ID,Abbreviation,Name,Capital
+1,AL,Alabama,Montgomery
+2,AK,Alaska,Juneau
+3,AZ,Arizona,Phoenix
+4,AR,Arkansas,Little Rock
+5,CA,California,Sacramento
+6,CO,Colorado,Denver
+7,CT,Connecticut,Hartford
+8,DE,Delaware,Dover
+9,FL,Florida,Tallahassee
+10,GA,Georgia,Atlanta
+11,HI,Hawaii,Honolulu
+12,ID,Idaho,Boise
+13,IL,Illinois,Springfield
+14,IN,Indiana,Indianapolis
+15,IA,Iowa,Des Moines
+16,KS,Kansas,Topeka
+17,KY,Kentucky,Frankfort
+18,LA,Louisiana,Baton Rouge
+19,ME,Maine,Augusta
+20,MD,Maryland,Annapolis
+21,MA,Massachusetts,Boston
+22,MI,Michigan,Lansing
+23,MN,Minnesota,Saint Paul
+24,MS,Mississippi,Jackson
+25,MO,Missouri,Jefferson City
+26,MT,Montana,Helena
+27,NE,Nebraska,Lincoln
+28,NV,Nevada,Carson City
+29,NH,New Hampshire,Concord
+30,NJ,New Jersey,Trenton
+31,NM,New Mexico,Santa Fe
+32,NY,New York,Albany
+33,NC,North Carolina,Raleigh
+34,ND,North Dakota,Bismarck
+35,OH,Ohio,Columbus
+36,OK,Oklahoma,Oklahoma City
+37,OR,Oregon,Salem
+38,PA,Pennsylvania,Harrisburg
+39,RI,Rhode Island,Providence
+40,SC,South Carolina,Columbia
+41,SD,South Dakota,Pierre
+42,TN,Tennessee,Nashville
+43,TX,Texas,Austin
+44,UT,Utah,Salt Lake City
+45,VT,Vermont,Montpelier
+46,VA,Virginia,Richmond
+47,WA,Washington,Olympia
+48,WV,West Virginia,Charleston
+49,WI,Wisconsin,Madison
+50,WY,Wyoming,Cheyenne
+51,DC,Washington DC,Washington DC
+52,ON,Ontario,Toronto
+53,QC,Quebec,Quebec City
+54,MB,Manitoba,Winnipeg
+55,AB,Alberta,Edmonton
+56,BC,British Columbia,Victoria
