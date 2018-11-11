@@ -12,21 +12,29 @@ namespace SportRanker.Tools.DatabaseSeed.Application
 
             Id = csv[(int)CityCsvHeaders.Id].ToLong();
             Name = csv[(int)CityCsvHeaders.Name];
+            Rating = csv[(int) CityCsvHeaders.Rating].ToLong();
+            ImageUrl = csv[(int) CityCsvHeaders.ImageUrl];
         }
 
         private long? Id { get; }
 
         private string Name { get; }
 
+        private long? Rating { get; }
+
+        private  string ImageUrl { get; }
+
         public Option<City> ToCity()
         {
-            if (!Id.HasValue || String.IsNullOrEmpty(Name))
+            if (!Id.HasValue || !Rating.HasValue || String.IsNullOrEmpty(Name))
                 return Option.None<City>();
 
             var c = new City
             {            
                 Id = Id.Value,
-                Name = Name               
+                Name = Name,
+                Rating = Rating.Value,
+                ImageUrl = ImageUrl
             };
 
             return Option.Some(c);
@@ -35,7 +43,9 @@ namespace SportRanker.Tools.DatabaseSeed.Application
         private enum CityCsvHeaders
         {
             Id = 0,
-            Name = 1,         
+            Name = 1,
+            Rating = 2,
+            ImageUrl = 3
         }
     }
 }

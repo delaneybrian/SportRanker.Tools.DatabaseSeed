@@ -1,124 +1,124 @@
-Id,Name,Sport,SportId,StateName,StateId,CityName,CityId,Rating,SportRadarId
-1,Buffallo Bills,NFL,2,NY,32,Buffallo,7,1500,768c92aa-75ff-4a43-bcc0-f2798c2e1724
-2,Miami Dolphins,NFL,2,FL,9,Miami,27,1500,4809ecb0-abd3-451d-9c4a-92a90b83ca06
-3,New York Jets,NFL,2,NY,32,New York,34,1500,5fee86ae-74ab-4bdd-8416-42a9dd9964f3
-4,New England Patriots,NFL,2,MA,21,Boston,4,1500,97354895-8c77-4fd4-a860-32e62ea7382a
-5,Cincinnati Bengals,NFL,2,OH,35,Cincinnati,12,1500,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123
-6,Cleveland Browns,NFL,2,OH,35,Cleveland,13,1500,d5a2eb42-8065-4174-ab79-0a6fa820e35e
-7,Baltimore Ravans,NFL,2,MD,20,Baltimore,3,1500,ebd87119-b331-4469-9ea6-d51fe3ce2f1c
-8,Pittsburgh Steelers,NFL,2,PA,38,Pittsburgh,43,1500,cb2f9f1f-ac67-424e-9e72-1475cb0ed398
-9,Indianapolis Colts,NFL,2,IN,14,Indianapolis,21,1500,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9
-10,Jacksonville Jaguars,NFL,2,FL,9,Jacksonville,22,1500,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de
-11,Houston Texans,NFL,2,TX,43,Houston,20,1500,82d2d380-3834-4938-835f-aec541e5ece7
-12,Tennessee Titans,NFL,2,TN,42,Nashville,32,1500,d26a1ca5-722d-4274-8f97-c92e49c96315
-13,Denver Broncos,NFL,2,CO,6,Denver,16,1500,324decdd-aa1b-4074-8958-c009d8fac31a
-14,Los Angeles Chargers,NFL,2,CA,5,Los Angeles,25,1500,1f6dcffb-9823-43cd-9ff4-e7a8466749b5
-15,Kansas City Chiefs,NFL,2,MO,25,Kansas City,23,1500,6680d28d-d4d2-49f6-aace-5292d3ec02c2
-16,Oakland Raiders,NFL,2,CA,5,Oakland,36,1500,1c1cec48-6352-4556-b789-35304c1a6ae1
-17,Dallas Cowboys,NFL,2,TX,43,Dallas,15,1500,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060
-18,Philadelphia Eagles,NFL,2,PA,38,Philadelphia,40,1500,386bdbf9-9eea-4869-bb9a-274b0bc66e80
-19,New York Giants,NFL,2,NJ,30,New York,34,1500,5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c
-20,Washington Redskins,NFL,2,DC,51,Washington,59,1500,22052ff7-c065-42ee-bc8f-c4691c50e624
-21,Chicago Bears,NFL,2,IL,13,Chicago,11,1500,6dc1933f-ca90-46e6-aaf7-9b95cc44306a
-22,Detroit Lions,NFL,2,MI,22,Detroit,17,1500,6e3bcf22-277d-4c06-b019-62aded51654f
-23,Green Bay Packers,NFL,2,WI,49,Green Bay,19,1500,a20471b4-a8d9-40c7-95ad-90cc30e46932
-24,Minnesota Vikings,NFL,2,MN,23,Minneapolis,30,1500,33405046-04ee-4058-a950-d606f8c30852
-25,Tampa Bay Buccaneers,NFL,2,FL,9,Tampa,56,1500,4254d319-1bc7-4f81-b4ab-b5e6f3402b69
-26,Atlanta Falcons,NFL,2,GA,10,Atlanta,2,1500,e6aa13a4-0055-48a9-bc41-be28dc106929
-27,Carolina Panthers,NFL,2,NC,33,Charlotte,10,1500,f14bf5cc-9a82-4a38-bc15-d39f75ed5314
-28,New Orleans Saints,NFL,2,LA,18,New Orleans,33,1500,0d855753-ea21-4953-89f9-0e20aff9eb73
-29,San Francisco 49ers,NFL,2,CA,5,San Francisco,50,1500,f0e724b0-4cbf-495a-be47-013907608da9
-30,Arizona Cardinals,NFL,2,AZ,3,Phoenix,41,1500,f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84
-31,Los Angeles Rams,NFL,2,CA,5,Los Angeles,25,1500,2eff2a03-54d4-46ba-890e-2bc3925548f3
-32,Seattle Seahawks,NFL,2,WA,47,Seattle,52,1500,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8
-33,Washington Wizards,NBA,1,DC,51,Washington,59,1500,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c
-34,Charlotte Hornets,NBA,1,NC,33,Charlotte,10,1500,583ec97e-fb46-11e1-82cb-f4ce4684ea4c
-35,Atlanta Hawks,NBA,1,GA,10,Atlanta,2,1500,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c
-36,Miami Heat,NBA,1,FL,9,Miami,27,1500,583ecea6-fb46-11e1-82cb-f4ce4684ea4c
-37,Orlando Magic,NBA,1,FL,9,Orlando,38,1500,583ed157-fb46-11e1-82cb-f4ce4684ea4c
-38,New York Knicks,NBA,1,NY,32,New York,34,1500,583ec70e-fb46-11e1-82cb-f4ce4684ea4c
-39,Philadelphia 76ers,NBA,1,PA,38,Philadelphia,40,1500,583ec87d-fb46-11e1-82cb-f4ce4684ea4c
-40,Brooklyn Nets,NBA,1,NY,32,Brooklyn,6,1500,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c
-41,Boston Celtics,NBA,1,MA,21,Boston,4,1500,583eccfa-fb46-11e1-82cb-f4ce4684ea4c
-42,Toronto Raptors,NBA,1,ON,52,Toronto,57,1500,583ecda6-fb46-11e1-82cb-f4ce4684ea4c
-43,Chicago Bulls,NBA,1,IL,13,Chicago,11,1500,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c
-44,Cleveland Cavaliers,NBA,1,OH,35,Cleveland,13,1500,583ec773-fb46-11e1-82cb-f4ce4684ea4c
-45,Indiana Pacers,NBA,1,IN,14,Indianapolis,21,1500,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c
-46,Detroit Pistons,NBA,1,MI,22,Detroit,17,1500,583ec928-fb46-11e1-82cb-f4ce4684ea4c
-47,Milwaukee Bucks,NBA,1,WI,49,Milwaukee,28,1500,583ecefd-fb46-11e1-82cb-f4ce4684ea4c
-48,Minnesota Timberwolves,NBA,1,MN,23,Minneapolis,30,1500,583eca2f-fb46-11e1-82cb-f4ce4684ea4c
-49,Utah Jazz,NBA,1,UT,44,Salt Lake City,47,1500,583ece50-fb46-11e1-82cb-f4ce4684ea4c
-50,Oklahoma City Thunder,NBA,1,OK,36,Oklahoma City,37,1500,583ecfff-fb46-11e1-82cb-f4ce4684ea4c
-51,Portland Trail Blazers,NBA,1,OR,37,Portland,44,1500,583ed056-fb46-11e1-82cb-f4ce4684ea4c
-52,Denver Nuggets,NBA,1,CO,6,Denver,16,1500,583ed102-fb46-11e1-82cb-f4ce4684ea4c
-53,Memphis Grizzlies,NBA,1,TN,42,Memphis,26,1500,583eca88-fb46-11e1-82cb-f4ce4684ea4c
-54,Houston Rockets,NBA,1,TX,43,Houston,20,1500,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c
-55,New Orleans Pelicans,NBA,1,LA,18,New Orleans,33,1500,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c
-56,San Antonio Spurs,NBA,1,TX,43,San Antonio,48,1500,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c
-57,Dallas Mavericks,NBA,1,TX,43,Dallas,15,1500,583ecf50-fb46-11e1-82cb-f4ce4684ea4c
-58,Golden State Warriors,NBA,1,CA,5,Oakland,36,1500,583ec825-fb46-11e1-82cb-f4ce4684ea4c
-59,Los Angeles Lakers,NBA,1,CA,5,Los Angeles,25,1500,583ecae2-fb46-11e1-82cb-f4ce4684ea4c
-60,Los Angeles Clipeprs,NBA,1,CA,5,Los Angeles,25,1500,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c
-61,Phoenix Suns,NBA,1,AZ,3,Phoenix,42,1500,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c
-62,Sacramento Kings,NBA,1,CA,5,Sacramento,46,1500,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c
-63,Vegas Golden Knights,NHL,3,NV,28,Las Vegas,24,1500,42376e1c-6da8-461e-9443-cfcf0a9fcc4d
-64,Los Angeles Kings,NHL,3,CA,5,Los Angeles,25,1500,44151f7a-0f24-11e2-8525-18a905767e44
-65,Arizona Coyotes,NHL,3,AZ,3,Phoenix,41,1500,44153da1-0f24-11e2-8525-18a905767e44
-66,San Jose Sharks,NHL,3,CA,5,San Jose,51,1500,44155909-0f24-11e2-8525-18a905767e44
-67,Calgary Flames,NHL,3,AB,55,Calgary,9,1500,44159241-0f24-11e2-8525-18a905767e44
-68,Vancouver Canucks,NHL,3,BC,56,Vancouver,58,1500,4415b0a7-0f24-11e2-8525-18a905767e44
-69,Edmonton Oilers,NHL,3,AB,55,Edmonton,18,1500,4415ea6c-0f24-11e2-8525-18a905767e44
-70,Anaheim Ducks,NHL,3,CA,5,Anaheim,1,1500,441862de-0f24-11e2-8525-18a905767e44
-71,Dallas Stars,NHL,3,TX,43,Dallas,15,1500,44157522-0f24-11e2-8525-18a905767e44
-72,Colorado Avalanche,NHL,3,CO,6,Denver,16,1500,4415ce44-0f24-11e2-8525-18a905767e44
-73,Minnesota Wild,NHL,3,MN,23,St. Paul,54,1500,4416091c-0f24-11e2-8525-18a905767e44
-74,Chicago Blackhawks,NHL,3,IL,13,Chicago,11,1500,4416272f-0f24-11e2-8525-18a905767e44
-75,Nashville Predators,NHL,3,TN,42,Nashville,32,1500,441643b7-0f24-11e2-8525-18a905767e44
-76,St. Louis Blues,NHL,3,MO,25,St. Louis,53,1500,441660ea-0f24-11e2-8525-18a905767e44
-77,Winnipeg Jets,NHL,3,MB,54,Winnipeg,60,1500,44180e55-0f24-11e2-8525-18a905767e44
-78,Detroit Red Wings,NHL,3,MI,22,Detroit,17,1500,44169bb9-0f24-11e2-8525-18a905767e44
-79,Boston Bruins,NHL,3,MA,21,Boston,4,1500,4416ba1a-0f24-11e2-8525-18a905767e44
-80,Buffalo Sabres,NHL,3,NY,32,Buffalo,8,1500,4416d559-0f24-11e2-8525-18a905767e44
-81,Ottawa Senators,NHL,3,ON,52,Ottawa,39,1500,4416f5e2-0f24-11e2-8525-18a905767e44
-82,Montreal Canadiens,NHL,3,QC,53,Montreal,31,1500,441713b7-0f24-11e2-8525-18a905767e44
-83,Toronto Maple Leafs,NHL,3,ON,52,Toronto,57,1500,441730a9-0f24-11e2-8525-18a905767e44
-84,Tampa Bay Lightning,NHL,3,FL,9,Tampa,56,1500,4417d3cb-0f24-11e2-8525-18a905767e44
-85,Florida Panthers,NHL,3,FL,9,Sunrise,55,1500,4418464d-0f24-11e2-8525-18a905767e44
-86,Columbus Blue Jackets,NHL,3,OH,35,Columbus,14,1500,44167db4-0f24-11e2-8525-18a905767e44
-87,New Jersey Devils,NHL,3,NJ,30,Newark,35,1500,44174b0c-0f24-11e2-8525-18a905767e44
-88,New York Islanders,NHL,3,NY,32,New York,34,1500,441766b9-0f24-11e2-8525-18a905767e44
-89,New York Rangers,NHL,3,NY,32,New York,34,1500,441781b9-0f24-11e2-8525-18a905767e44
-90,Philadelphia Flyers,NHL,3,PA,38,Philadelphia,40,1500,44179d47-0f24-11e2-8525-18a905767e44
-91,Pittsburgh Penguins,NHL,3,PA,38,Pittsburgh,43,1500,4417b7d7-0f24-11e2-8525-18a905767e44
-92,Washington Capitals,NHL,3,DC,51,Washington,59,1500,4417eede-0f24-11e2-8525-18a905767e44
-93,Carolina Hurricanes,NHL,3,NC,33,Raleigh,45,1500,44182a9d-0f24-11e2-8525-18a905767e44
-94,Toronto Blue Jays,MLB,4,ON,52,Toronto,57,1500,1d678440-b4b1-4954-9b39-70afb3ebbcfa
-95,Tampa Bay Rays,MLB,4,FL,9,Tampa,56,1500,bdc11650-6f74-49c4-875e-778aeb7632d9
-96,Baltimore Orioles,MLB,4,MD,20,Baltimore,3,1500,75729d34-bca7-4a0f-b3df-6f26c6ad3719
-97,Boston Red Sox,MLB,4,MA,21,Boston,4,1500,93941372-eb4c-4c40-aced-fe3267174393
-98,New York Yankees,MLB,4,NY,32,Bronx,5,1500,a09ec676-f887-43dc-bbb3-cf4bbaee9a18
-99,Kansas City Royals,MLB,4,MO,25,Kansas City,23,1500,833a51a9-0d84-410f-bd77-da08c3e5e26e
-100,Cleveland Indians,MLB,4,OH,35,Cleveland,13,1500,80715d0d-0d2a-450f-a970-1b9a3b18c7e7
-101,Chicago White Sox,MLB,4,IL,13,Chicago,11,1500,47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8
-102,Detroit Tigers,MLB,4,MI,22,Detroit,17,1500,575c19b7-4052-41c2-9f0a-1c5813d02f99
-103,Minnesota Twins,MLB,4,MN,23,Minneapolis,30,1500,aa34e0ed-f342-4ec6-b774-c79b47b60e2d
-104,Seattle Mariners,MLB,4,WA,47,Seattle,52,1500,43a39081-52b4-4f93-ad29-da7f329ea960
-105,Los Angeles Angels,MLB,4,CA,5,Los Angeles,25,1500,4f735188-37c8-473d-ae32-1f7e34ccf892
-106,Oakland Athletics,MLB,4,CA,5,Oakland,36,1500,27a59d3b-ff7c-48ea-b016-4798f560f5e1
-107,Texas Rangers,MLB,4,TX,43,Dallas,15,1500,d99f919b-1534-4516-8e8a-9cd106c6d8cd
-108,Houston Astros,MLB,4,TX,43,Houston,20,1500,eb21dadd-8f10-4095-8bf3-dfb3b779f107
-109,Cincinnati Reds,MLB,4,OH,35,Cincinnati,12,1500,c874a065-c115-4e7d-b0f0-235584fb0e6f
-110,Pittsburgh Pirates,MLB,4,PA,38,Pittsburgh,43,1500,481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd
-111,Chicago Cubs,MLB,4,IL,13,Chicago,11,1500,55714da8-fcaf-4574-8443-59bfb511a524
-112,St. Louis Cardinals,MLB,4,MO,25,St. Louis,53,1500,44671792-dc02-4fdd-a5ad-f5f17edaa9d7
-113,Milwaukee Brewers,MLB,4,WI,49,Milwaukee,28,1500,dcfd5266-00ce-442c-bc09-264cd20cf455
-114,Los Angeles Dodgers,MLB,4,CA,5,Los Angeles,25,1500,ef64da7f-cfaf-4300-87b0-9313386b977c
-115,Arizona Diamondbacks,MLB,4,AZ,3,Phoenix,41,1500,25507be1-6a68-4267-bd82-e097d94b359b
-116,San Francisco Giants,MLB,4,CA,5,San Francisco,50,1500,a7723160-10b7-4277-a309-d8dd95a8ae65
-117,Colorado Rockies,MLB,4,CO,6,Denver,16,1500,29dd9a87-5bcc-4774-80c3-7f50d985068b
-118,San Diego Padres,MLB,4,CA,5,San Diego,49,1500,d52d5339-cbdd-43f3-9dfa-a42fd588b9a3
-119,Philadelphia Phillies,MLB,4,PA,38,Philadelphia,40,1500,2142e1ba-3b40-445c-b8bb-f1f8b1054220
-120,New York Mets,MLB,4,NY,32,New York,34,1500,f246a5e5-afdb-479c-9aaa-c68beeda7af6
-121,Miami Marlins,MLB,4,FL,9,Mimai,29,1500,03556285-bdbb-4576-a06d-42f71f46ddc5
-122,Atlanta Braves,MLB,4,GA,10,Atlanta,2,1500,12079497-e414-450a-8bf2-29f91de646bf
-123,Washington Nationals,MLB,4,DC,51,Washington,59,1500,d89bed32-3aee-4407-99e3-4103641b999a
+Id,Name,Sport,SportId,StateName,StateId,CityName,CityId,Rating,SportRadarId,ImageUrl
+1,Buffallo Bills,NFL,2,NY,32,Buffallo,7,1500,768c92aa-75ff-4a43-bcc0-f2798c2e1724,null
+2,Miami Dolphins,NFL,2,FL,9,Miami,27,1500,4809ecb0-abd3-451d-9c4a-92a90b83ca06,null
+3,New York Jets,NFL,2,NY,32,New York,34,1500,5fee86ae-74ab-4bdd-8416-42a9dd9964f3,null
+4,New England Patriots,NFL,2,MA,21,Boston,4,1500,97354895-8c77-4fd4-a860-32e62ea7382a,null
+5,Cincinnati Bengals,NFL,2,OH,35,Cincinnati,12,1500,ad4ae08f-d808-42d5-a1e6-e9bc4e34d123,null
+6,Cleveland Browns,NFL,2,OH,35,Cleveland,13,1500,d5a2eb42-8065-4174-ab79-0a6fa820e35e,null
+7,Baltimore Ravans,NFL,2,MD,20,Baltimore,3,1500,ebd87119-b331-4469-9ea6-d51fe3ce2f1c,null
+8,Pittsburgh Steelers,NFL,2,PA,38,Pittsburgh,43,1500,cb2f9f1f-ac67-424e-9e72-1475cb0ed398,null
+9,Indianapolis Colts,NFL,2,IN,14,Indianapolis,21,1500,82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9,null
+10,Jacksonville Jaguars,NFL,2,FL,9,Jacksonville,22,1500,f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de,null
+11,Houston Texans,NFL,2,TX,43,Houston,20,1500,82d2d380-3834-4938-835f-aec541e5ece7,null
+12,Tennessee Titans,NFL,2,TN,42,Nashville,32,1500,d26a1ca5-722d-4274-8f97-c92e49c96315,null
+13,Denver Broncos,NFL,2,CO,6,Denver,16,1500,324decdd-aa1b-4074-8958-c009d8fac31a,null
+14,Los Angeles Chargers,NFL,2,CA,5,Los Angeles,25,1500,1f6dcffb-9823-43cd-9ff4-e7a8466749b5,null
+15,Kansas City Chiefs,NFL,2,MO,25,Kansas City,23,1500,6680d28d-d4d2-49f6-aace-5292d3ec02c2,null
+16,Oakland Raiders,NFL,2,CA,5,Oakland,36,1500,1c1cec48-6352-4556-b789-35304c1a6ae1,null
+17,Dallas Cowboys,NFL,2,TX,43,Dallas,15,1500,e627eec7-bbae-4fa4-8e73-8e1d6bc5c060,null
+18,Philadelphia Eagles,NFL,2,PA,38,Philadelphia,40,1500,386bdbf9-9eea-4869-bb9a-274b0bc66e80,null
+19,New York Giants,NFL,2,NJ,30,New York,34,1500,5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c,null
+20,Washington Redskins,NFL,2,DC,51,Washington,59,1500,22052ff7-c065-42ee-bc8f-c4691c50e624,null
+21,Chicago Bears,NFL,2,IL,13,Chicago,11,1500,6dc1933f-ca90-46e6-aaf7-9b95cc44306a,null
+22,Detroit Lions,NFL,2,MI,22,Detroit,17,1500,6e3bcf22-277d-4c06-b019-62aded51654f,null
+23,Green Bay Packers,NFL,2,WI,49,Green Bay,19,1500,a20471b4-a8d9-40c7-95ad-90cc30e46932,null
+24,Minnesota Vikings,NFL,2,MN,23,Minneapolis,30,1500,33405046-04ee-4058-a950-d606f8c30852,null
+25,Tampa Bay Buccaneers,NFL,2,FL,9,Tampa,56,1500,4254d319-1bc7-4f81-b4ab-b5e6f3402b69,null
+26,Atlanta Falcons,NFL,2,GA,10,Atlanta,2,1500,e6aa13a4-0055-48a9-bc41-be28dc106929,null
+27,Carolina Panthers,NFL,2,NC,33,Charlotte,10,1500,f14bf5cc-9a82-4a38-bc15-d39f75ed5314,null
+28,New Orleans Saints,NFL,2,LA,18,New Orleans,33,1500,0d855753-ea21-4953-89f9-0e20aff9eb73,null
+29,San Francisco 49ers,NFL,2,CA,5,San Francisco,50,1500,f0e724b0-4cbf-495a-be47-013907608da9,null
+30,Arizona Cardinals,NFL,2,AZ,3,Phoenix,41,1500,f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84,null
+31,Los Angeles Rams,NFL,2,CA,5,Los Angeles,25,1500,2eff2a03-54d4-46ba-890e-2bc3925548f3,null
+32,Seattle Seahawks,NFL,2,WA,47,Seattle,52,1500,3d08af9e-c767-4f88-a7dc-b920c6d2b4a8,null
+33,Washington Wizards,NBA,1,DC,51,Washington,59,1500,583ec8d4-fb46-11e1-82cb-f4ce4684ea4c,null
+34,Charlotte Hornets,NBA,1,NC,33,Charlotte,10,1500,583ec97e-fb46-11e1-82cb-f4ce4684ea4c,null
+35,Atlanta Hawks,NBA,1,GA,10,Atlanta,2,1500,583ecb8f-fb46-11e1-82cb-f4ce4684ea4c,null
+36,Miami Heat,NBA,1,FL,9,Miami,27,1500,583ecea6-fb46-11e1-82cb-f4ce4684ea4c,null
+37,Orlando Magic,NBA,1,FL,9,Orlando,38,1500,583ed157-fb46-11e1-82cb-f4ce4684ea4c,null
+38,New York Knicks,NBA,1,NY,32,New York,34,1500,583ec70e-fb46-11e1-82cb-f4ce4684ea4c,null
+39,Philadelphia 76ers,NBA,1,PA,38,Philadelphia,40,1500,583ec87d-fb46-11e1-82cb-f4ce4684ea4c,null
+40,Brooklyn Nets,NBA,1,NY,32,Brooklyn,6,1500,583ec9d6-fb46-11e1-82cb-f4ce4684ea4c,null
+41,Boston Celtics,NBA,1,MA,21,Boston,4,1500,583eccfa-fb46-11e1-82cb-f4ce4684ea4c,null
+42,Toronto Raptors,NBA,1,ON,52,Toronto,57,1500,583ecda6-fb46-11e1-82cb-f4ce4684ea4c,null
+43,Chicago Bulls,NBA,1,IL,13,Chicago,11,1500,583ec5fd-fb46-11e1-82cb-f4ce4684ea4c,null
+44,Cleveland Cavaliers,NBA,1,OH,35,Cleveland,13,1500,583ec773-fb46-11e1-82cb-f4ce4684ea4c,null
+45,Indiana Pacers,NBA,1,IN,14,Indianapolis,21,1500,583ec7cd-fb46-11e1-82cb-f4ce4684ea4c,null
+46,Detroit Pistons,NBA,1,MI,22,Detroit,17,1500,583ec928-fb46-11e1-82cb-f4ce4684ea4c,null
+47,Milwaukee Bucks,NBA,1,WI,49,Milwaukee,28,1500,583ecefd-fb46-11e1-82cb-f4ce4684ea4c,null
+48,Minnesota Timberwolves,NBA,1,MN,23,Minneapolis,30,1500,583eca2f-fb46-11e1-82cb-f4ce4684ea4c,null
+49,Utah Jazz,NBA,1,UT,44,Salt Lake City,47,1500,583ece50-fb46-11e1-82cb-f4ce4684ea4c,null
+50,Oklahoma City Thunder,NBA,1,OK,36,Oklahoma City,37,1500,583ecfff-fb46-11e1-82cb-f4ce4684ea4c,null
+51,Portland Trail Blazers,NBA,1,OR,37,Portland,44,1500,583ed056-fb46-11e1-82cb-f4ce4684ea4c,null
+52,Denver Nuggets,NBA,1,CO,6,Denver,16,1500,583ed102-fb46-11e1-82cb-f4ce4684ea4c,null
+53,Memphis Grizzlies,NBA,1,TN,42,Memphis,26,1500,583eca88-fb46-11e1-82cb-f4ce4684ea4c,null
+54,Houston Rockets,NBA,1,TX,43,Houston,20,1500,583ecb3a-fb46-11e1-82cb-f4ce4684ea4c,null
+55,New Orleans Pelicans,NBA,1,LA,18,New Orleans,33,1500,583ecc9a-fb46-11e1-82cb-f4ce4684ea4c,null
+56,San Antonio Spurs,NBA,1,TX,43,San Antonio,48,1500,583ecd4f-fb46-11e1-82cb-f4ce4684ea4c,null
+57,Dallas Mavericks,NBA,1,TX,43,Dallas,15,1500,583ecf50-fb46-11e1-82cb-f4ce4684ea4c,null
+58,Golden State Warriors,NBA,1,CA,5,Oakland,36,1500,583ec825-fb46-11e1-82cb-f4ce4684ea4c,null
+59,Los Angeles Lakers,NBA,1,CA,5,Los Angeles,25,1500,583ecae2-fb46-11e1-82cb-f4ce4684ea4c,null
+60,Los Angeles Clipeprs,NBA,1,CA,5,Los Angeles,25,1500,583ecdfb-fb46-11e1-82cb-f4ce4684ea4c,null
+61,Phoenix Suns,NBA,1,AZ,3,Phoenix,42,1500,583ecfa8-fb46-11e1-82cb-f4ce4684ea4c,null
+62,Sacramento Kings,NBA,1,CA,5,Sacramento,46,1500,583ed0ac-fb46-11e1-82cb-f4ce4684ea4c,null
+63,Vegas Golden Knights,NHL,3,NV,28,Las Vegas,24,1500,42376e1c-6da8-461e-9443-cfcf0a9fcc4d,null
+64,Los Angeles Kings,NHL,3,CA,5,Los Angeles,25,1500,44151f7a-0f24-11e2-8525-18a905767e44,null
+65,Arizona Coyotes,NHL,3,AZ,3,Phoenix,41,1500,44153da1-0f24-11e2-8525-18a905767e44,null
+66,San Jose Sharks,NHL,3,CA,5,San Jose,51,1500,44155909-0f24-11e2-8525-18a905767e44,null
+67,Calgary Flames,NHL,3,AB,55,Calgary,9,1500,44159241-0f24-11e2-8525-18a905767e44,null
+68,Vancouver Canucks,NHL,3,BC,56,Vancouver,58,1500,4415b0a7-0f24-11e2-8525-18a905767e44,null
+69,Edmonton Oilers,NHL,3,AB,55,Edmonton,18,1500,4415ea6c-0f24-11e2-8525-18a905767e44,null
+70,Anaheim Ducks,NHL,3,CA,5,Anaheim,1,1500,441862de-0f24-11e2-8525-18a905767e44,null
+71,Dallas Stars,NHL,3,TX,43,Dallas,15,1500,44157522-0f24-11e2-8525-18a905767e44,null
+72,Colorado Avalanche,NHL,3,CO,6,Denver,16,1500,4415ce44-0f24-11e2-8525-18a905767e44,null
+73,Minnesota Wild,NHL,3,MN,23,St. Paul,54,1500,4416091c-0f24-11e2-8525-18a905767e44,null
+74,Chicago Blackhawks,NHL,3,IL,13,Chicago,11,1500,4416272f-0f24-11e2-8525-18a905767e44,null
+75,Nashville Predators,NHL,3,TN,42,Nashville,32,1500,441643b7-0f24-11e2-8525-18a905767e44,null
+76,St. Louis Blues,NHL,3,MO,25,St. Louis,53,1500,441660ea-0f24-11e2-8525-18a905767e44,null
+77,Winnipeg Jets,NHL,3,MB,54,Winnipeg,60,1500,44180e55-0f24-11e2-8525-18a905767e44,null
+78,Detroit Red Wings,NHL,3,MI,22,Detroit,17,1500,44169bb9-0f24-11e2-8525-18a905767e44,null
+79,Boston Bruins,NHL,3,MA,21,Boston,4,1500,4416ba1a-0f24-11e2-8525-18a905767e44,null
+80,Buffalo Sabres,NHL,3,NY,32,Buffalo,8,1500,4416d559-0f24-11e2-8525-18a905767e44,null
+81,Ottawa Senators,NHL,3,ON,52,Ottawa,39,1500,4416f5e2-0f24-11e2-8525-18a905767e44,null
+82,Montreal Canadiens,NHL,3,QC,53,Montreal,31,1500,441713b7-0f24-11e2-8525-18a905767e44,null
+83,Toronto Maple Leafs,NHL,3,ON,52,Toronto,57,1500,441730a9-0f24-11e2-8525-18a905767e44,null
+84,Tampa Bay Lightning,NHL,3,FL,9,Tampa,56,1500,4417d3cb-0f24-11e2-8525-18a905767e44,null
+85,Florida Panthers,NHL,3,FL,9,Sunrise,55,1500,4418464d-0f24-11e2-8525-18a905767e44,null
+86,Columbus Blue Jackets,NHL,3,OH,35,Columbus,14,1500,44167db4-0f24-11e2-8525-18a905767e44,null
+87,New Jersey Devils,NHL,3,NJ,30,Newark,35,1500,44174b0c-0f24-11e2-8525-18a905767e44,null
+88,New York Islanders,NHL,3,NY,32,New York,34,1500,441766b9-0f24-11e2-8525-18a905767e44,null
+89,New York Rangers,NHL,3,NY,32,New York,34,1500,441781b9-0f24-11e2-8525-18a905767e44,null
+90,Philadelphia Flyers,NHL,3,PA,38,Philadelphia,40,1500,44179d47-0f24-11e2-8525-18a905767e44,null
+91,Pittsburgh Penguins,NHL,3,PA,38,Pittsburgh,43,1500,4417b7d7-0f24-11e2-8525-18a905767e44,null
+92,Washington Capitals,NHL,3,DC,51,Washington,59,1500,4417eede-0f24-11e2-8525-18a905767e44,null
+93,Carolina Hurricanes,NHL,3,NC,33,Raleigh,45,1500,44182a9d-0f24-11e2-8525-18a905767e44,null
+94,Toronto Blue Jays,MLB,4,ON,52,Toronto,57,1500,1d678440-b4b1-4954-9b39-70afb3ebbcfa,null
+95,Tampa Bay Rays,MLB,4,FL,9,Tampa,56,1500,bdc11650-6f74-49c4-875e-778aeb7632d9,null
+96,Baltimore Orioles,MLB,4,MD,20,Baltimore,3,1500,75729d34-bca7-4a0f-b3df-6f26c6ad3719,null
+97,Boston Red Sox,MLB,4,MA,21,Boston,4,1500,93941372-eb4c-4c40-aced-fe3267174393,null
+98,New York Yankees,MLB,4,NY,32,Bronx,5,1500,a09ec676-f887-43dc-bbb3-cf4bbaee9a18,null
+99,Kansas City Royals,MLB,4,MO,25,Kansas City,23,1500,833a51a9-0d84-410f-bd77-da08c3e5e26e,null
+100,Cleveland Indians,MLB,4,OH,35,Cleveland,13,1500,80715d0d-0d2a-450f-a970-1b9a3b18c7e7,null
+101,Chicago White Sox,MLB,4,IL,13,Chicago,11,1500,47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8,null
+102,Detroit Tigers,MLB,4,MI,22,Detroit,17,1500,575c19b7-4052-41c2-9f0a-1c5813d02f99,null
+103,Minnesota Twins,MLB,4,MN,23,Minneapolis,30,1500,aa34e0ed-f342-4ec6-b774-c79b47b60e2d,null
+104,Seattle Mariners,MLB,4,WA,47,Seattle,52,1500,43a39081-52b4-4f93-ad29-da7f329ea960,null
+105,Los Angeles Angels,MLB,4,CA,5,Los Angeles,25,1500,4f735188-37c8-473d-ae32-1f7e34ccf892,null
+106,Oakland Athletics,MLB,4,CA,5,Oakland,36,1500,27a59d3b-ff7c-48ea-b016-4798f560f5e1,null
+107,Texas Rangers,MLB,4,TX,43,Dallas,15,1500,d99f919b-1534-4516-8e8a-9cd106c6d8cd,null
+108,Houston Astros,MLB,4,TX,43,Houston,20,1500,eb21dadd-8f10-4095-8bf3-dfb3b779f107,null
+109,Cincinnati Reds,MLB,4,OH,35,Cincinnati,12,1500,c874a065-c115-4e7d-b0f0-235584fb0e6f,null
+110,Pittsburgh Pirates,MLB,4,PA,38,Pittsburgh,43,1500,481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd,null
+111,Chicago Cubs,MLB,4,IL,13,Chicago,11,1500,55714da8-fcaf-4574-8443-59bfb511a524,null
+112,St. Louis Cardinals,MLB,4,MO,25,St. Louis,53,1500,44671792-dc02-4fdd-a5ad-f5f17edaa9d7,null
+113,Milwaukee Brewers,MLB,4,WI,49,Milwaukee,28,1500,dcfd5266-00ce-442c-bc09-264cd20cf455,null
+114,Los Angeles Dodgers,MLB,4,CA,5,Los Angeles,25,1500,ef64da7f-cfaf-4300-87b0-9313386b977c,null
+115,Arizona Diamondbacks,MLB,4,AZ,3,Phoenix,41,1500,25507be1-6a68-4267-bd82-e097d94b359b,null
+116,San Francisco Giants,MLB,4,CA,5,San Francisco,50,1500,a7723160-10b7-4277-a309-d8dd95a8ae65,null
+117,Colorado Rockies,MLB,4,CO,6,Denver,16,1500,29dd9a87-5bcc-4774-80c3-7f50d985068b,null
+118,San Diego Padres,MLB,4,CA,5,San Diego,49,1500,d52d5339-cbdd-43f3-9dfa-a42fd588b9a3,null
+119,Philadelphia Phillies,MLB,4,PA,38,Philadelphia,40,1500,2142e1ba-3b40-445c-b8bb-f1f8b1054220,null
+120,New York Mets,MLB,4,NY,32,New York,34,1500,f246a5e5-afdb-479c-9aaa-c68beeda7af6,null
+121,Miami Marlins,MLB,4,FL,9,Mimai,29,1500,03556285-bdbb-4576-a06d-42f71f46ddc5,null
+122,Atlanta Braves,MLB,4,GA,10,Atlanta,2,1500,12079497-e414-450a-8bf2-29f91de646bf,null
+123,Washington Nationals,MLB,4,DC,51,Washington,59,1500,d89bed32-3aee-4407-99e3-4103641b999a,null

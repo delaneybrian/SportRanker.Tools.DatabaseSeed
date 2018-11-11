@@ -13,13 +13,16 @@ namespace SportRanker.Tools.DatabaseSeed.Application
             Id = csv[(int)SportCsvHeaders.Id].ToLong();
             Name = csv[(int)SportCsvHeaders.Name];
             SportName = csv[(int)SportCsvHeaders.SportName];
+            ImageUrl = csv[(int) SportCsvHeaders.ImageUrl];
         }
 
         private long? Id { get; }
 
         private string Name { get; }
 
-        private string SportName { get;  }
+        private string SportName { get; }
+
+        private string ImageUrl { get; }
 
         public Option<Sport> ToSport()
         {
@@ -31,7 +34,9 @@ namespace SportRanker.Tools.DatabaseSeed.Application
             var s = new Sport
             {
                 Id = Id.Value,
-                Name = Name
+                Name = Name,
+                SportName = SportName,
+                ImageUrl = ImageUrl
             };
 
             return Option.Some(s);
@@ -41,7 +46,8 @@ namespace SportRanker.Tools.DatabaseSeed.Application
         {
             Id = 0,
             Name = 1,
-            SportName = 2
+            SportName = 2,
+            ImageUrl = 3
         }
     }
 }

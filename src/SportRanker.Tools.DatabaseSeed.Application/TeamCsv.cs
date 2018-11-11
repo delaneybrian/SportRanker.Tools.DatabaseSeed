@@ -21,6 +21,7 @@ namespace SportRanker.Tools.DatabaseSeed.Application
             CityId = csv[(int)TeamCsvHeaders.CityId].ToLong();
             Rating = csv[(int)TeamCsvHeaders.Rating].ToLong();
             SportRadarId = csv[(int)TeamCsvHeaders.SportRadarId];
+            ImageUrl = csv[(int) TeamCsvHeaders.ImageUrl];
         }
 
         private long? Id { get; }
@@ -43,6 +44,7 @@ namespace SportRanker.Tools.DatabaseSeed.Application
 
         private string SportRadarId { get; }
 
+        private string ImageUrl { get; }
 
         public Option<Team> ToTeam()
         {
@@ -76,7 +78,8 @@ namespace SportRanker.Tools.DatabaseSeed.Application
                         Source = Source.SportRadar,
                         SourceId = SportRadarId
                     }
-                }
+                },
+                ImageUrl = ImageUrl
             };
 
             return Option.Some(t);
@@ -93,7 +96,8 @@ namespace SportRanker.Tools.DatabaseSeed.Application
             CityName = 6,
             CityId = 7,
             Rating = 8,
-            SportRadarId = 9
+            SportRadarId = 9,
+            ImageUrl = 10
         }
     }
 }

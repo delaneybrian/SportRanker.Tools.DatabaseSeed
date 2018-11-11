@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using SportRanker.Tools.DatabaseSeed.Application;
 using SportRanker.Tools.DatabaseSeed.Contracts;
 
@@ -24,6 +25,12 @@ namespace SportRanker.Tools.DatabaseSeed.App
                 @"C:\Code\SportRanker\SportRanker.Tools.DatabaseSeed\src\SportRanker.Tools.DatabaseSeed.App\Data\cities.csv");
 
             //dbSeeder.SeedData<City>(cities, "cities").Wait();
+
+            //dbSeeder.SeedData<Sport>(sports, "sports").Wait();
+
+            //dbSeeder.SeedData<State>(states, "states").Wait();
+
+            //dbSeeder.SeedData<Team>(teams, "teams").Wait();
 
             Console.ReadKey();
         }

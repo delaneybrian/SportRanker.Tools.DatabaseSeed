@@ -14,6 +14,8 @@ namespace SportRanker.Tools.DatabaseSeed.Application
             Abbreviation = csv[(int)StateCsvHeaders.Abbreviation];
             Name = csv[(int)StateCsvHeaders.Name];
             Capital = csv[(int)StateCsvHeaders.Capital];
+            Rating = csv[(int) StateCsvHeaders.Rating].ToLong();
+            ImageUrl = csv[(int) StateCsvHeaders.ImageUrl];
         }
 
         private long? Id { get; }
@@ -24,13 +26,17 @@ namespace SportRanker.Tools.DatabaseSeed.Application
 
         private string Capital { get; }
 
+        private long? Rating { get; }
+
+        private string ImageUrl { get; }
 
         public Option<State> ToState()
         {
             if (!Id.HasValue 
                 || String.IsNullOrEmpty(Name)
                 || String.IsNullOrEmpty(Capital)
-                || String.IsNullOrEmpty(Abbreviation))
+                || String.IsNullOrEmpty(Abbreviation)
+                || !Rating.HasValue)
                 return Option.None<State>();
 
             var s = new State
@@ -38,7 +44,9 @@ namespace SportRanker.Tools.DatabaseSeed.Application
                 Id = Id.Value,
                 Abbreviation = Abbreviation,
                 Name = Name,
-                Capital = Capital
+                Capital = Capital,
+                Rating = Rating.Value,
+                ImageUrl = ImageUrl
             };
 
             return Option.Some(s);
@@ -49,7 +57,9 @@ namespace SportRanker.Tools.DatabaseSeed.Application
             Id = 0,
             Abbreviation = 1,
             Name = 2,
-            Capital = 3
+            Capital = 3,
+            Rating = 4,
+            ImageUrl = 5
         }
     }
 }

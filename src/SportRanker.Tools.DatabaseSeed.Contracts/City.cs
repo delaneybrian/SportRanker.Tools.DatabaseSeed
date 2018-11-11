@@ -11,5 +11,11 @@ namespace SportRanker.Tools.DatabaseSeed.Contracts
 
         [DataMember]
         public string Name { get; set; }
+
+        [DataMember]
+        public long Rating { get; set; }
+
+        [DataMember]
+        public string ImageUrl { get; set; }
     }
 }

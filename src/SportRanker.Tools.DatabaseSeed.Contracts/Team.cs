@@ -35,5 +35,8 @@ namespace SportRanker.Tools.DatabaseSeed.Contracts
 
         [DataMember]
         public ICollection<ExternalMapping> ExternalMappings { get; set; }
+
+        [DataMember]
+        public string ImageUrl { get; set; }
     }
 }
