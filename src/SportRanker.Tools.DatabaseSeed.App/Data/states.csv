@@ -1,57 +1,57 @@
 Id,Abbreviation,Name,Capital,Rating,ImageUrl
-1,AL,Alabama,Montgomery,1500,null
-2,AK,Alaska,Juneau,1500,null
-3,AZ,Arizona,Phoenix,1500,null
-4,AR,Arkansas,Little Rock,1500,null
-5,CA,California,Sacramento,1500,null
-6,CO,Colorado,Denver,1500,null
-7,CT,Connecticut,Hartford,1500,null
-8,DE,Delaware,Dover,1500,null
-9,FL,Florida,Tallahassee,1500,null
-10,GA,Georgia,Atlanta,1500,null
-11,HI,Hawaii,Honolulu,1500,null
-12,ID,Idaho,Boise,1500,null
-13,IL,Illinois,Springfield,1500,null
-14,IN,Indiana,Indianapolis,1500,null
-15,IA,Iowa,Des Moines,1500,null
-16,KS,Kansas,Topeka,1500,null
-17,KY,Kentucky,Frankfort,1500,null
-18,LA,Louisiana,Baton Rouge,1500,null
-19,ME,Maine,Augusta,1500,null
-20,MD,Maryland,Annapolis,1500,null
-21,MA,Massachusetts,Boston,1500,null
-22,MI,Michigan,Lansing,1500,null
-23,MN,Minnesota,Saint Paul,1500,null
-24,MS,Mississippi,Jackson,1500,null
-25,MO,Missouri,Jefferson City,1500,null
-26,MT,Montana,Helena,1500,null
-27,NE,Nebraska,Lincoln,1500,null
-28,NV,Nevada,Carson City,1500,null
-29,NH,New Hampshire,Concord,1500,null
-30,NJ,New Jersey,Trenton,1500,null
-31,NM,New Mexico,Santa Fe,1500,null
-32,NY,New York,Albany,1500,null
-33,NC,North Carolina,Raleigh,1500,null
-34,ND,North Dakota,Bismarck,1500,null
-35,OH,Ohio,Columbus,1500,null
-36,OK,Oklahoma,Oklahoma City,1500,null
-37,OR,Oregon,Salem,1500,null
-38,PA,Pennsylvania,Harrisburg,1500,null
-39,RI,Rhode Island,Providence,1500,null
-40,SC,South Carolina,Columbia,1500,null
-41,SD,South Dakota,Pierre,1500,null
-42,TN,Tennessee,Nashville,1500,null
-43,TX,Texas,Austin,1500,null
-44,UT,Utah,Salt Lake City,1500,null
-45,VT,Vermont,Montpelier,1500,null
-46,VA,Virginia,Richmond,1500,null
-47,WA,Washington,Olympia,1500,null
-48,WV,West Virginia,Charleston,1500,null
-49,WI,Wisconsin,Madison,1500,null
-50,WY,Wyoming,Cheyenne,1500,null
-51,DC,Washington DC,Washington DC,1500,null
-52,ON,Ontario,Toronto,1500,null
-53,QC,Quebec,Quebec City,1500,null
-54,MB,Manitoba,Winnipeg,1500,null
-55,AB,Alberta,Edmonton,1500,null
-56,BC,British Columbia,Victoria,1500,null
+1,AL,Alabama,Montgomery,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/alabama.svg
+2,AK,Alaska,Juneau,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/alaska.svg
+3,AZ,Arizona,Phoenix,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/arizona.svg
+4,AR,Arkansas,Little Rock,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/arkansas.svg
+5,CA,California,Sacramento,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/california.svg
+6,CO,Colorado,Denver,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/colorado.svg
+7,CT,Connecticut,Hartford,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/connecticut.svg
+8,DE,Delaware,Dover,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/delaware.svg
+9,FL,Florida,Tallahassee,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/florida.svg
+10,GA,Georgia,Atlanta,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/georgia.svg
+11,HI,Hawaii,Honolulu,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/hawaii.svg
+12,ID,Idaho,Boise,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/idaho.svg
+13,IL,Illinois,Springfield,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/illinois.svg
+14,IN,Indiana,Indianapolis,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/indiana.svg
+15,IA,Iowa,Des Moines,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/iowa.svg
+16,KS,Kansas,Topeka,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/kansas.svg
+17,KY,Kentucky,Frankfort,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/kentucky.svg
+18,LA,Louisiana,Baton Rouge,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/louisiana.svg
+19,ME,Maine,Augusta,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/maine.svg
+20,MD,Maryland,Annapolis,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/maryland.svg
+21,MA,Massachusetts,Boston,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/massachusetts.svg
+22,MI,Michigan,Lansing,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/michigan.svg
+23,MN,Minnesota,Saint Paul,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/minnesota.svg
+24,MS,Mississippi,Jackson,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/mississippi.svg
+25,MO,Missouri,Jefferson City,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/missouri.svg
+26,MT,Montana,Helena,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/montana.svg
+27,NE,Nebraska,Lincoln,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/nebraska.svg
+28,NV,Nevada,Carson City,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/nevada.svg
+29,NH,New Hampshire,Concord,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/newhampshire.svg
+30,NJ,New Jersey,Trenton,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/newjersey.svg
+31,NM,New Mexico,Santa Fe,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/newmexico.svg
+32,NY,New York,Albany,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/newyork.svg
+33,NC,North Carolina,Raleigh,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/northcarolina.svg
+34,ND,North Dakota,Bismarck,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/northdakota.svg
+35,OH,Ohio,Columbus,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/ohio.svg
+36,OK,Oklahoma,Oklahoma City,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/oklahoma.svg
+37,OR,Oregon,Salem,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/oregon.svg
+38,PA,Pennsylvania,Harrisburg,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/pennsylvania.svg
+39,RI,Rhode Island,Providence,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/rhodeisland.svg
+40,SC,South Carolina,Columbia,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/southcarolina.svg
+41,SD,South Dakota,Pierre,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/southdakota.svg
+42,TN,Tennessee,Nashville,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/tennessee.svg
+43,TX,Texas,Austin,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/texas.svg
+44,UT,Utah,Salt Lake City,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/utah.svg
+45,VT,Vermont,Montpelier,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/vermont.svg
+46,VA,Virginia,Richmond,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/virginia.svg
+47,WA,Washington,Olympia,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/washington.svg
+48,WV,West Virginia,Charleston,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/westvirginia.svg
+49,WI,Wisconsin,Madison,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/wisconsin.svg
+50,WY,Wyoming,Cheyenne,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/wyoming.svg
+51,DC,Washington DC,Washington DC,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/washingtondc.svg
+52,ON,Ontario,Toronto,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/ontario.svg
+53,QC,Quebec,Quebec City,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/quebec.svg
+54,MB,Manitoba,Winnipeg,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/manitoba.svg
+55,AB,Alberta,Edmonton,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/alberta.svg
+56,BC,British Columbia,Victoria,1500,https://sportrankerstorage.blob.core.windows.net/locations-images/britishcolumbia.svg
