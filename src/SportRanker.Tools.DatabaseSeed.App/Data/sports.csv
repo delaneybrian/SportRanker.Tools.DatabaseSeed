@@ -1,6 +1,6 @@
 Id,Name,SportName,ImageUrl
-1,NBA,Basketball,null
-2,NFL,American Football,null
-3,NHL,Ice Hockey,null
-4,MLB,Baseball,null
+1,NBA,Basketball,https://sportrankerstorage.blob.core.windows.net/sports-images/nba.svg
+2,NFL,American Football,https://sportrankerstorage.blob.core.windows.net/sports-images/nfl.svg
+3,NHL,Ice Hockey,https://sportrankerstorage.blob.core.windows.net/sports-images/nhl.svg
+4,MLB,Baseball,https://sportrankerstorage.blob.core.windows.net/sports-images/mlb.svg
 5,NASCAR,Motor Racing,null
